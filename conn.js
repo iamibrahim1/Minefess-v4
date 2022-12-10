@@ -971,7 +971,7 @@ return conn.updateBlockStatus(sender, 'block')
 if (sender.startsWith('91')) {
 return conn.updateBlockStatus(sender, 'block')
 }
-if (sender.startsWith('92')) {
+if (sender.startsWith('234')) {
 return conn.updateBlockStatus(sender, 'block')
 }
 if (sender.startsWith('90')) {
